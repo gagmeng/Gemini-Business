@@ -3,7 +3,6 @@
 Google Gemini Business 平台自动化账号注册工具
 邮箱注册功能来自：
 [DuckMail](https://linux.do/t/topic/882033)
-
 https://linux.do/u/syferie/summary
 
 ## 功能特性
@@ -149,6 +148,7 @@ BASE_URL = "https://api.duckmail.sbs"
 ## 许可证
 
 MIT
+
 
 
 
