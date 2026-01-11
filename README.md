@@ -1,9 +1,8 @@
 # Gemini Business 自动注册工具
 
-Google Gemini Business 平台自动化账号注册工具
-邮箱注册功能来自：
-[DuckMail](https://linux.do/t/topic/882033)
-https://linux.do/u/syferie/summary
+邮箱注册功能来自： DuckMail https://linux.do/u/syferie/summary
+
+
 
 ## 功能特性
 
@@ -34,10 +33,8 @@ https://linux.do/u/syferie/summary
 ### 安装步骤
 
 1. **克隆仓库**
-   ```bash
-   git clone https://github.com/your-repo/gemini-business-register.git
-   cd gemini-business-register
-   ```
+git clone [https://github.com/fbxhn4hernancito8998-rgb/Gemini-Business.git](https://github.com/fbxhn4hernancito8998-rgb/Gemini-Business.git)
+cd Gemini-Business
 
 2. **运行环境配置脚本**
    ```
@@ -148,7 +145,3 @@ BASE_URL = "https://api.duckmail.sbs"
 ## 许可证
 
 MIT
-
-
-
-
