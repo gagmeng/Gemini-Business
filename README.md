@@ -341,11 +341,11 @@ MIT License
 3. 确认所有配置步骤都已正确完成
 
 ## 项目来源
-
-- **GitHub**: https://github.com/Zooo-1/Gemini-Business
+- **GitHub**: https://github.com/gagmeng/Gemini-Business
+- **Forked from GitHub**: https://github.com/Zooo-1/Gemini-Business
 - **克隆命令**:
   ```bash
-  git clone https://github.com/Zooo-1/Gemini-Business.git
+  git clone https://github.com/gagmeng/Gemini-Business.git
   cd Gemini-Business
   ```
 
