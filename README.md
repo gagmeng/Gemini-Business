@@ -120,7 +120,12 @@ https://your-subscription-url
    - 成功的账号保存在 `result.csv`
    - 运行日志保存在 `log.txt`
 
----
+### 第四步：登陆使用
+
+1. **Business 登录地址**
+   - https://business.gemini.google/  使用`result.csv`中的Account登陆，等第2步的验证码正常登陆
+2. **账号信息登陆**
+   - https://ducktempmail.netlify.app/ 使用`result.csv`中的Account和Password登陆邮箱管理，用于接收gemini的验证码
 
 ## 配置说明
 
